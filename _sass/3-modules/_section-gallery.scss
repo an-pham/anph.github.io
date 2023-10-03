@@ -1,0 +1,33 @@
+.section-gallery__inner {
+    .section-gallery__title {
+        position: absolute;
+        left: 50%;
+        z-index: 1;
+        transform: translate(-50%, -50%);
+        font-family: "Yellowtail",cursive;
+        font-size: 40px;
+        line-height: 1.25;
+        font-weight: normal;
+        color: var(--primary-color);
+    }
+
+    .section-gallery__content {
+        display: grid;
+        grid-template-columns: repeat(6, auto);
+
+        .section-gallery__image {
+            overflow: hidden;
+            border-radius: 24px;
+            background: var(--background-alt-color);
+            user-select: none;
+        }
+
+        .section-gallery__image:nth-child(odd) {
+            transform: rotate(-15deg);
+        }
+
+        .section-gallery__image:nth-child(even) {
+            transform: rotate(15deg);
+        }
+    }
+}

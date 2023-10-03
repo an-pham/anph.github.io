@@ -1,34 +1,29 @@
 #-------------------------------
 # Site Settings
-title: Danto
+title: anphx
 description: Danto is a news and magazine Jekyll theme
-logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
-logo_dark: "/images/logo-dark.svg"
+# logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
+# logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+tags: [a,b,c]
 
 
 #-------------------------------
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: "Home"
-      url: "/"
+    - title: "Featured"
+      url: "/featured/"
     - title: "Latest"
       url: "/latest/"
-    - title: "Authors"
-      url: "/authors/"
-    - title: "Videos"
-      url: "/videos/"
-    - title: "Pages"
+    - title: "Projects"
+      url: "/projects/"
+    - title: "Resources"
       submenu:
       - url: "/about/"
         title: "About"
-      - url: "/elements/"
-        title: "Elements"
       - url: "/contact/"
         title: "Contact"
-      - url: "/featured/"
-        title: "Featured"
 
 # Call to action button
 cta_button:

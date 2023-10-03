@@ -3,7 +3,7 @@ layout: post
 title: Seared Salmon and Vegetable Salad With Sweet Soy
 description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis convallis tristique.
 date: 2022-06-24 15:01:35 +0300
-author: justin
+author: admin
 image: '/images/23.jpg'
 tags: [food]
 ---

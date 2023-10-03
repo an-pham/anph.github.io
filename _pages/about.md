@@ -1,23 +1,48 @@
 ---
-layout: page
 title: About
+subtitle: This is a short page about me and my work.
+layout: page
 permalink: /about/
-image: '/images/31.jpg'
 ---
+<!-- seo:
+  type: stackbit_page_meta
+  title: About Me
+  description: This is the about me page
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: About Me
+      keyName: property
+    - name: 'og:description'
+      value: This is the about me page
+      keyName: property
+    - name: 'og:image'
+      value: images/about.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: About
+    - name: 'twitter:description'
+      value: This is the about me page
+    - name: 'twitter:image'
+      value: images/about.jpg
+      relativeUrl: true
+template: about-me -->
 
-Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. 
+Welcome to my blog, a simple place in which I would like to share about my knowledge, life experiences, and the amazing journey that I am lucky enough to be a part of. This is my way to connect with the world. I hope you will enjoy our connection as much as I enjoy sharing with you.
 
-Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam.
+I am a curious girl grew up in Vietnam and has spent most of my childhood dreaming of traveling the world. One day, this fantasy is just no longer a dream. Now living miles away from home, I am in a quest to enjoy every opportunity life has to offer and embracing my inheritance.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+Besides being a 9-to-5 ninja, I enjoy maintaining this little space and play some badminton in my free time. Crafting is also another hobby of mine, I'm quite looking forward to see how far this hobby can go. Who knows, maybe some day we can see the smiles of people using stuff I made :) But for now, those little handmade gifts make my friends happy, and that made my day!
 
-Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam.
+And here, my favorite quote, what's yours?
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi. Integer lacinia sollicitudin massa.
+>“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”
 
-![Team]({{site.baseurl}}/images/31-1.jpg)
-*Photo by [Fauxels](https://www.pexels.com/photo/photo-of-men-and-women-holding-blank-signboards-3228812/) on [Pexels](https://www.pexels.com/)*
+<cite>- Bernard M. Baruch</cite>
 
-Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. 
-
-Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. 
+<hr />

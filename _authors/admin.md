@@ -1,7 +1,7 @@
 ---
 username: admin
-name: Bruno Mason
-image: '/images/100.jpg'
+name: An Pham
+image: '/images/author.jpg'
 location:
 website:
 facebook: https://www.facebook.com
