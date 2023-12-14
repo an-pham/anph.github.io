@@ -35,7 +35,7 @@ layout: default
           </div>
           <div class="post__meta-bottom">
             <a class="post__author__name" href="/anpham">An Pham</a>
-            <time class="post__date" datetime="{{ page.date }}">{{ page.date }}</time>
+            <time class="post__date" datetime="{{ page.date }}">{{ page.date | date: "%Y-%m-%d %H:%M:%S" }}</time>
         </div>
         </div>
 

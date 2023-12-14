@@ -74,8 +74,8 @@ social:
 - {icon: "facebook", link: "https://facebook.com"}
 # - {icon: "codepen", link: "https://codepen.io"}
 - {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "github", link: "https://github.com/anphamx"}
-- {icon: "instagram", link: "https://www.instagram.com/anpham._/"}
+- {icon: "github", link: "https://github.com/anphx"}
+- {icon: "instagram", link: "https://www.instagram.com/anpham.aph/"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
