@@ -48,10 +48,10 @@ tags_section:
   number_columns: 3 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
   tags:
     - tag: "lifestyle"
-    - tag: "shopping"
-    - tag: "business"
-    - tag: "food"
+    # - tag: "shopping"
+    # - tag: "food"
     - tag: "sport"
+    - tag: "tech-talk"
 
 # You can add many tag sections to the homepage; each section will show the recent posts by the tag.
 
@@ -70,12 +70,12 @@ footer_description: Features productivity, tips, inspiration and strategies for 
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
+# - {icon: "twitter", link: "https://twitter.com"}
 - {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
+# - {icon: "codepen", link: "https://codepen.io"}
 - {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "github", link: "https://github.com"}
-- {icon: "youtube", link: "https://youtube.com"}
+- {icon: "github", link: "https://github.com/anphamx"}
+- {icon: "instagram", link: "https://www.instagram.com/anpham._/"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/

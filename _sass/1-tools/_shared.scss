@@ -11,7 +11,9 @@ fieldset, figure,
 pre {
   margin-bottom: 32px;
 }
-
+mark {
+  background-color: var(--button-background-color);
+}
 
 /**
  * Consistent indentation for lists.
