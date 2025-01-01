@@ -1,3 +1,4 @@
+---
 #-------------------------------
 # Site Settings
 title: anphx
@@ -5,8 +6,7 @@ description: Danto is a news and magazine Jekyll theme
 # logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
 # logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-tags: [a,b,c]
-
+tags: [a, b, c]
 
 #-------------------------------
 # Navigation Settings
@@ -20,25 +20,23 @@ menu_settings:
       url: "/projects/"
     - title: "Resources"
       submenu:
-      - url: "/about/"
-        title: "About"
-      - url: "/contact/"
-        title: "Contact"
+        - url: "/about/"
+          title: "About"
+        - url: "/contact/"
+          title: "Contact"
 
 # Call to action button
 cta_button:
   enable: true
-  cta_button_link: '/contact/'
+  cta_button_link: "/contact/"
   cta_button_text: Get in touch
-
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero_title: One Stop Daily News, Article, Inspiration, and Tips.
-  hero_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
-
+  hero_title: Crafting Digital Realities.
+  hero_description: Turning caffeine, code, and creativity into digital magic. Whether it's debugging lines or capturing light, I'm all about creating art (AND I'M NO ARTIST).
 
 #-------------------------------
 # Tags Section Settings
@@ -55,31 +53,27 @@ tags_section:
 
 # You can add many tag sections to the homepage; each section will show the recent posts by the tag.
 
-
 #-------------------------------
 # Authors Section Settings
 authors_section:
   enable: true
   section_title: Meet our authors
 
-
 #-------------------------------
 # Footer Settings
-footer_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
-
+footer_description: Welcome to my blog - a mix of code, cameras, and caffeinated musings. From debugging life's glitches to capturing its best angles, you'll find a little bit of everything here—served with a side of wit and the occasional lens flare!
 
 # Social Links
 social:
-# - {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-# - {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "github", link: "https://github.com/anphx"}
-- {icon: "instagram", link: "https://www.instagram.com/anpham.aph/"}
+  # - {icon: "twitter", link: "https://twitter.com"}
+  - { icon: "facebook", link: "https://facebook.com" }
+  # - {icon: "codepen", link: "https://codepen.io"}
+  - { icon: "pinterest", link: "https://pinterest.com" }
+  - { icon: "github", link: "https://github.com/anphx" }
+  - { icon: "instagram", link: "https://www.instagram.com/anpham.aph/" }
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
-
 
 #-------------------------------
 # Newsletter Settings
@@ -91,7 +85,6 @@ mailchimp_settings:
   mailchimp_input_text: Your email address
   mailchimp_button_text: Subscribe
 
-
 #-------------------------------
 # Contact Settings
 contact:
@@ -101,11 +94,9 @@ contact:
 # NOTE
 # Danto theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
-
 #-------------------------------
 # Comment Section (Disqus)
 disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
-
 
 #-------------------------------
 # Google Analytics

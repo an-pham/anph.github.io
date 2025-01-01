@@ -33,13 +33,13 @@ permalink: /about/
       relativeUrl: true
 template: about-me -->
 
-Welcome to my blog, a simple place in which I would like to share about my knowledge, life experiences, and the amazing journey that I am lucky enough to be a part of. This is my way to connect with the world. I hope you will enjoy our connection as much as I enjoy sharing with you.
+Welcome to my blog, a little corner where I share my knowledge, life experiences, and the incredible journey I’m fortunate enough to be on. This is my way of connecting with the world, and I hope our connection is as enjoyable for you as it is for me to share.
 
-I am a curious girl grew up in Vietnam and has spent most of my childhood dreaming of traveling the world. One day, this fantasy is just no longer a dream. Now living miles away from home, I am in a quest to enjoy every opportunity life has to offer and embracing my inheritance.
+I’m a curious girl from Vietnam, who spent most of my childhood dreaming of traveling the world. One day, that dream became my reality. Now, living far from home, I’m on a quest to embrace every opportunity life has to offer while honoring my roots.
 
-Besides being a 9-to-5 ninja, I enjoy maintaining this little space and play some badminton in my free time. Crafting is also another hobby of mine, I'm quite looking forward to see how far this hobby can go. Who knows, maybe some day we can see the smiles of people using stuff I made :) But for now, those little handmade gifts make my friends happy, and that made my day!
+By day, I’m a 9-to-5 ninja. By night, I enjoy maintaining this little space, playing badminton, and exploring my love for crafting. Who knows where this hobby will take me? Maybe one day, I’ll be lucky enough to see the smiles of people using something I made. For now, handmade gifts bring joy to my friends, and that’s all I need to make my day.
 
-And here, my favorite quote, what's yours?
+And here’s my favorite quote—what’s yours?
 
 >“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”
 
