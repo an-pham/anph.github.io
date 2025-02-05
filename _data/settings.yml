@@ -2,22 +2,18 @@
 #-------------------------------
 # Site Settings
 title: anphx
-description: Danto is a news and magazine Jekyll theme
+description: Personal website of An Pham. I'm a software engineer, photographer, and coffee enthusiast. I blog about tech, photography, and life. # Add a description of your site
 # logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
 # logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-tags: [a, b, c]
+tags: [tech, photography, lifestyle] # Add tags for your site
 
 #-------------------------------
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: "Featured"
-      url: "/featured/"
     - title: "Latest"
       url: "/latest/"
-    - title: "Projects"
-      url: "/projects/"
     - title: "Resources"
       submenu:
         - url: "/about/"
@@ -46,10 +42,8 @@ tags_section:
   number_columns: 3 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
   tags:
     - tag: "lifestyle"
-    # - tag: "shopping"
-    # - tag: "food"
     - tag: "sport"
-    - tag: "tech-talk"
+    - tag: "techno"
 
 # You can add many tag sections to the homepage; each section will show the recent posts by the tag.
 
@@ -65,11 +59,8 @@ footer_description: Welcome to my blog - a mix of code, cameras, and caffeinated
 
 # Social Links
 social:
-  # - {icon: "twitter", link: "https://twitter.com"}
-  - { icon: "facebook", link: "https://facebook.com" }
-  # - {icon: "codepen", link: "https://codepen.io"}
-  - { icon: "pinterest", link: "https://pinterest.com" }
   - { icon: "github", link: "https://github.com/anphx" }
+  - { icon: "linkedin", link: "https://www.linkedin.com/in/an-pham/" }
   - { icon: "instagram", link: "https://www.instagram.com/anpham.aph/" }
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
@@ -78,7 +69,7 @@ social:
 #-------------------------------
 # Newsletter Settings
 mailchimp_settings:
-  enable: true
+  enable: false
   mailchimp_title: Get interesting news
   mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
   mailchimp_identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
@@ -89,15 +80,14 @@ mailchimp_settings:
 # Contact Settings
 contact:
   email: your@email.com # Add your form_id
-  description: Danto comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
+  description: Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible.
 # NOTE
 # Danto theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+# disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 #-------------------------------
 # Google Analytics
-google_analytics: # Add your GA Tracking Id
+# google_analytics: # Add your GA Tracking Id

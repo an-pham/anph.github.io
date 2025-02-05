@@ -4,10 +4,11 @@ title: Network Society – Estonia Model & Vietnam Adoption
 description: A story of two different adoption models of the network society
 date: 2023-10-07 14:42:00 +0200
 author: admin
-image: '/images/network.jpg'
-tags: [tech-talk]
+image: "/images/network.jpg"
+tags: [techno]
 featured: yes
 ---
+
 #### What do we know about "Network Society"?
 
 Manuel Castells – a sociologist, frequently associated with information society and communication research – has written several books about the new form of community or movements in the shape of society. According to Manuel, a network society is <mark>“a society whose social structure is made up of networks powered by digital technology.” He believes that “we are passing from the industrial age to the information age.”</mark> In the 20th century, the rapid rise of information technology had been unleashing the most fundamental force of our time, hyperconnectivity, which is reshaping all areas of our technology, economy and social institutions according to a new set of rules. Face-to-face communications are no longer the only form of communication.
@@ -51,13 +52,11 @@ Estonia is an example of how a country can follow the network society model. The
 
 Estonia started building its information society about two decades ago. Their goal is to build up a <mark>fully connected community where all services can be digitalized or accessible online.</mark> Each Estonian is provided with a digital ID – which enables them to identify themselves electrically. Digital ID makes e-life of Estonia happen. People can use their ID to access all personal information online, pay tax online or vote online, etc. Estonia was the first nation in history to offer internet voting in a nation-wide election in 2005. Health data is also made available for people, with the help of blockchain technology, the integrity of stored electronic medical records as well as system access logs are ensured.
 
-
 Personal data of Estonians are centralized and make accessible to other services 1 (public sector or private sector). There are connections in almost every fields. In education, students can access their lectures and records, and the family is connected with schools and students closer than ever before. A new way of working is also formed with the help of internet. People can work remotely from their place as long as they have access to the internet and can connect with others. <mark>This remote-working style can also be a solution for reducing the burden of a big city because people can move to countryside or rural areas with the better living atmosphere while they still can have an excellent job from big cities.</mark>
 
 In 2014, Estonia launched their new model of e-residency, which leads to a brand-new way of creating a business. Anyone from anywhere can register for a digital residency and will receive a government-issued digital ID and full access to conduct business globally. This entrepreneur-devoted convenience along with competent tax policy is Estonia’s weapon to attract investments from all over the world as well as to build a dynamic economy.
 
 Besides all the benefits from digitalizing society, <mark>there are challenges in adapting to a network society model:</mark>
-
 
 <div class="columns-container">
   <div class="row">
@@ -103,4 +102,4 @@ Changing people’s mindset is the biggest challenging. Any improvements made in
 
 It is impossible to change the social structure of the whole country at the same time, Vietnam started their movements by applying network model gradually in a big city. For example, in the biggest city of Vietnam – Ho Chi Minh City, some policies have been launched over the past few years. People can declare tax form online. This system is also linked to bank service which allows the citizen to pay online. Bank services are also linked to the electricity provider, which means it is possible to pay for electricity bill online by using the registered identity, etc.
 
->Despite all those obstacles, efforts have been made, and improvements are recorded. I do think that it is promising for Vietnam to move forward to a networked society. However, the process and model must be different to fit in with the current social state and development strategy of the country.
+> Despite all those obstacles, efforts have been made, and improvements are recorded. I do think that it is promising for Vietnam to move forward to a networked society. However, the process and model must be different to fit in with the current social state and development strategy of the country.

@@ -16,16 +16,13 @@ permalink: /projects/
 <!-- end hero -->
 
 <section class="section videos-page animate">
-  {% assign sorted = site.posts | where_exp: 'post', "post.video_embed != nil" %}
+  {% assign sorted = site.posts | where_exp: 'post', "post.video_embed != nil"
+  %}
   <div class="container">
     <div class="row">
-      {% for post in sorted %}
-      {% if post.video_embed %}
-      <div class="col col-4 col-d-6 col-t-12">
-        {% include article.html %}
-      </div>
-      {% endif %}
-      {% endfor %}
+      {% for post in sorted %} {% if post.video_embed %}
+      <div class="col col-4 col-d-6 col-t-12">{% include article.html %}</div>
+      {% endif %} {% endfor %}
     </div>
   </div>
 </section>

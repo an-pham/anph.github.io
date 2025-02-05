@@ -7,22 +7,27 @@ image:
 
 A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
 
-***
+---
 
-## Headings by default:
+## Headings by default
 
 # H1 Default styles for headings
+
 ## H2 Default styles for headings
+
 ### H3 Default styles for headings
+
 #### H4 Default styles for headings
+
 ##### H5 Default styles for headings
+
 ###### H6 Default styles for headings
 
-***
+---
 
 ## Lists
 
-### Ordered list example:
+### Ordered list example
 
 1. Morbi lectus risus iaculis vel suscipit turpis quis.
 2. Curabitur sit amet mauris morbi in dui quis est pulvinar ullamcorper nulla facilisi.
@@ -30,17 +35,17 @@ A paragraph looks like this — Globally incubate standards compliant channels b
 4. Proin quam etiam ultrices suspendisse in justo eu magna luctus lacinia suscipit.
 5. Aenean lectus elit fermentum non convallis id sagittis at neque mauris orci.
 
-***
+---
 
-### Unordered list example:
+### Unordered list example
 
-* Etiam ultrices. Suspendisse in justo massa fusce non.
-* Sed non quam. In vel mi sit amet augue congue elementum.
-* Suspendisse in justo eu magna luctus suscipit sed lectus.
-* Quisque volutpat condimentum velit class aptent taciti sociosqu torquent.
-* Aenean lectus elit fermentum non convallis id sagittis at neque.
+- Etiam ultrices. Suspendisse in justo massa fusce non.
+- Sed non quam. In vel mi sit amet augue congue elementum.
+- Suspendisse in justo eu magna luctus suscipit sed lectus.
+- Quisque volutpat condimentum velit class aptent taciti sociosqu torquent.
+- Aenean lectus elit fermentum non convallis id sagittis at neque.
 
-***
+---
 
 ## Table
 
@@ -56,19 +61,17 @@ A paragraph looks like this — Globally incubate standards compliant channels b
   </table>
 </div>
 
-***
+---
 
 ## Quotes
 
-#### A quote looks like this:
+#### A quote looks like this
 
 > The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 >
 > <cite>– George Bernard Shaw</cite>
 
-***
-
-
+---
 
 ## Syntax Highlighter
 
@@ -94,24 +97,24 @@ li {
 ```
 
 ```js
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
+$(".top").click(function () {
+  $("html, body").stop().animate({ scrollTop: 0 }, "slow", "swing");
+});
+$(window).scroll(function () {
+  if ($(this).scrollTop() > $(window).height()) {
+    $(".top").addClass("top-active");
+  } else {
+    $(".top").removeClass("top-active");
+  }
+});
 ```
 
-***
+---
 
 ## Images
 
 ![Shopping]({{site.baseurl}}/images/20.jpg#wide)
-*Photo by [Tim Douglas](https://www.pexels.com/photo/happy-woman-jumping-with-shopping-bags-6567607/) on [Pexels](https://www.pexels.com)*
+_Photo by [Tim Douglas](https://www.pexels.com/photo/happy-woman-jumping-with-shopping-bags-6567607/) on [Pexels](https://www.pexels.com)_
 
 <div class="gallery-box">
   <div class="gallery">
@@ -126,15 +129,15 @@ li {
 </div>
 
 ![Salad]({{site.baseurl}}/images/23.jpg)
-*Photo by [Valeria Boltneva](https://www.pexels.com/photo/salmon-dish-with-vegetables-1516415/) on [Pexels](https://www.pexels.com)*
+_Photo by [Valeria Boltneva](https://www.pexels.com/photo/salmon-dish-with-vegetables-1516415/) on [Pexels](https://www.pexels.com)_
 
-***
+---
 
 ## Youtube Embed
 
 <p><iframe src="https://www.youtube.com/embed/phiMxtqlFIY" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
-***
+---
 
 ## Vimeo Embed
 

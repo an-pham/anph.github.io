@@ -1,23 +1,25 @@
-.columns {
-
-}
-
 .card--border-top {
-    border-top: solid 15px #b93030cf;
+  border-top: solid 15px var(--cherry-red);
 }
 
 .card--border-left {
-    border-left: solid 15px #b93030cf;
+  border-left: solid 15px var(--cherry-red);
 }
 
 .card {
-    margin: 0 15px;
-    display: flex;
-    background: var(--background-alt-color-2);
-    border-radius: 10% 10% 2% 2%;
-    padding: 20px;
+  margin: 0 15px;
+  display: flex;
+  background: var(--background-alt-color-2);
+  border-radius: 10% 10% 2% 2%;
+  padding: 20px;
 
-    .card-title {
-        text-align: center;
-    }
+  .card-title {
+    text-align: center;
+  }
+}
+
+.dark-mode {
+  .card {
+    background: var(--gray);
+  }
 }
