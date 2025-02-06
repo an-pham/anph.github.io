@@ -2,29 +2,41 @@
  * Shared declarations for certain elements.
  */
 
-h1, h2, h3, h4, h5, h6,
-ul, ol, dl,
-blockquote, p, address,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+dl,
+blockquote,
+p,
+address,
 hr,
 table,
-fieldset, figure,
+fieldset,
+figure,
 pre {
   margin-bottom: 32px;
 }
 mark {
-  background-color: var(--button-background-color);
+  background-color: var(--hl-background-color);
 }
 
 /**
  * Consistent indentation for lists.
  */
 
-ul, ol,
+ul,
+ol,
 dd {
   margin-left: $base-spacing-unit;
 }
 
-ul, ol {
+ul,
+ol {
   li {
     margin-bottom: 8px;
   }
