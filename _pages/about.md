@@ -47,7 +47,7 @@ timeline:
           "Won 1st Prize in the Arctic Challenge - Skellefteå for Innovative Ideas Towards Sustainable Development together with a team of four.",
           "Lectures and seminars are provided by associated partners, including a seminar at St Petersburg University of IT Mechanics and Optics (Russia). After the program, I was granted three Master Degree from the hosted Universities.",
         ],
-      summary: "Was selected as a student of The Master Program, which spans four semesters, with students moving as a cohort. We began at the <strong>University of Lorraine (France)</strong>, then proceed to <strong>Lappeenranta University of Technology (Finland)</strong> for the second semester, and <strong>Luleå University of Technology (Sweden)</strong> for the third. My final semester is dedicated to a smarthome project conducted at <strong>Hochschule Harz, Harz University of Applied Sciences - Germany</strong>. ",
+      summary: "Was selected as a student of The Master Program, which spans four semesters, with students moving as a cohort. We began at the <strong>University of Lorraine (France)</strong>, then proceed to <strong>Lappeenranta University of Technology (Finland)</strong> for the second semester, and <strong>Luleå University of Technology (Sweden)</strong> for the third. My final semester is dedicated to a smarthome project conducted at <strong>Hochschule Harz, Harz University of Applied Sciences - Germany</strong>.",
     },
     {
       image: /images/about/business-success-chart.svg,

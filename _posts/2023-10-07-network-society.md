@@ -17,7 +17,7 @@ People can connect regardless of geographical distance via the global network of
 
 <div class="columns-container">
   <div class="row">
-    <div class="col-7">
+    <div class="col-lg-7 col">
       <div class="card card--border-top element-bottomshadow">
         <div class="card-body">
           <h5 class="card-title">Massive</h5>
@@ -25,7 +25,7 @@ People can connect regardless of geographical distance via the global network of
         </div>
       </div>
     </div>
-    <div class="col-5">
+    <div class="col-lg-5 col">
       <div class="card card--border-left element-bottomshadow">
         <div class="card-body ">
           <h5 class="card-title">Flat</h5>
@@ -60,7 +60,7 @@ Besides all the benefits from digitalizing society, <mark>there are challenges i
 
 <div class="columns-container">
   <div class="row">
-    <div class="col-4">
+    <div class="col col-lg-4">
       <div class="card card--border-top element-bottomshadow">
         <div class="card-body">
           <h5 class="card-title">Identity Thief</h5>
@@ -68,7 +68,7 @@ Besides all the benefits from digitalizing society, <mark>there are challenges i
         </div>
       </div>
     </div>
-    <div class="col-4">
+    <div class="col col-lg-4">
       <div class="card card--border-left element-bottomshadow">
         <div class="card-body ">
           <h5 class="card-title">Attack vulnerability</h5>
@@ -76,7 +76,7 @@ Besides all the benefits from digitalizing society, <mark>there are challenges i
         </div>
       </div>
     </div>
-    <div class="col-4">
+    <div class="col col-lg-4">
       <div class="card card--border-top element-bottomshadow">
         <div class="card-body">
           <h5 class="card-title">Tax verification</h5>
