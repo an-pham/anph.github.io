@@ -13,10 +13,19 @@
       <!-- begin content -->
       <main class="content" aria-label="Content">{{ content }}</main>
       <!-- end content -->
+      <footer class="footer fixed">
+        <div class="container">
+          <div class="row">
+            <div class="col col-12">
+              <div class="footer__info">
+                {% include footer-widgets/widget-theme.html %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
     </div>
     <!-- end global wrap -->
-
-    <script src="{{ site.baseurl }}/js/scripts.js"></script>
-    <script src="{{ site.baseurl }}/js/common.js"></script>
+    {% include scripts.html %}
   </body>
 </html>

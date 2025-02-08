@@ -29,9 +29,20 @@
     }
   }
 
-   @media (max-width: $mobile) {
-     padding: 48px 0;
-   }
+  @media (max-width: $mobile) {
+    padding: 48px 0;
+  }
+}
+
+.footer.fixed {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.footer__top {
+  border-top: 1px solid var(--border-color);
+  padding-top: 50px;
 }
 
 /* Widgets */
@@ -100,7 +111,7 @@
   .social__item {
     margin-bottom: 0;
     margin-right: 16px;
-  
+
     &:last-child {
       margin-right: 0;
     }
@@ -184,7 +195,7 @@
     .video-icon {
       width: 68px;
       height: 68px;
-  
+
       svg {
         width: 44px;
       }
@@ -195,7 +206,7 @@
 .recent-posts__content {
   .article__tags {
     .article__tag {
-      padding: 3px 12px
+      padding: 3px 12px;
     }
   }
 

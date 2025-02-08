@@ -1,8 +1,8 @@
+---
 #-------------------------------
 # General Site Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
 
 #-------------------------------
 # Build Settings
@@ -14,7 +14,6 @@ plugins:
 
 paginate: 12
 paginate_path: "/latest/page/:num"
-
 
 #-------------------------------
 # Collections
@@ -50,7 +49,10 @@ defaults:
       type: "authors"
     values:
       layout: "author"
-
+  - scope:
+      path: "images/gallery"
+    values:
+      layout: "gallery"
 
 sass:
   sass_dir: _sass

@@ -1,0 +1,21 @@
+---
+layout: gallery
+title: Photo Captures
+permalink: /captures/
+---
+
+<div class="row" data-masonry='{"percentPosition": true }'>
+  {% assign galleryImages = site.static_files | where: "layout", "gallery" %}
+
+  {% for image in galleryImages %}
+    <div class="col-sm-6 col-lg-4 mb-3">
+      <div class="card m-0 p-0 border-0">
+        <img
+          src="{{ image.path }}"
+          alt="{{ image.name }}"
+          class="card-img-top" />
+
+      </div>
+    </div>
+  {% endfor %}
+</div>
