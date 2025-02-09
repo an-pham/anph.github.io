@@ -130,7 +130,7 @@
   margin-bottom: 32px;
   border-radius: 22px;
   overflow: hidden;
-  background: var(--background-alt-color);
+  // background: var(--background-alt-color);
 
   img {
     position: absolute;
@@ -549,5 +549,16 @@
     .error__title {
       font-size: 100px;
     }
+  }
+}
+
+.columns-container {
+  .card {
+    margin: 0;
+    padding: 5px;
+  }
+
+  .col {
+    padding: 0 5px;
   }
 }

@@ -3,7 +3,6 @@ layout: post
 title: Network Society – Estonia Model & Vietnam Adoption
 description: A story of two different adoption models of the network society
 date: 2023-10-07 14:42:00 +0200
-author: admin
 image: "/images/network.jpg"
 tags: [techno]
 featured: yes
